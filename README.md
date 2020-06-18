@@ -1,2 +1,2 @@
 # README
-my new app
+my new app to learn
